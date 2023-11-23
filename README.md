@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @HidenInTheDark
 - 👀 I’m interested in chips, crypto, blockchain, games, anime, websites.
 - 🌱 I’m currently learning Japanese and chip production.
+    Nice to meet ya
+
+  
+Currently working on FPS game.
 <!-- 💞️ I’m looking to collaborate on ...
   📫 How to reach me:
   
