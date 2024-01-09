@@ -3,8 +3,19 @@
 - 🌱 I’m currently learning Japanese and chip production.
     Nice to meet ya
 
+Student Dev in:
+Microsoft Visual C#,
+JavaScript,
+Unity 2D and 3D,
+Microsoft Visual C,
+HTML 5, CSS 3, PHP,
+MySQL,
+Python,
+Assembler A1 (custom assembler for my own microchips),
+3D modelling
+
   
-Currently working on FPS game.
+Currently working on FPS game and video-streaming website.
 <!-- 💞️ I’m looking to collaborate on ...
   📫 How to reach me:
   
