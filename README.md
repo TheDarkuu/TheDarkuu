@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Japanese and chip production.
     Nice to meet ya
 
-Student Dev in:
+Student and a developer. Langs I use:
 Microsoft Visual C#,
 JavaScript,
 Unity 2D and 3D,
