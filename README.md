@@ -18,7 +18,7 @@ Currently working on FPS game and video-sharing social media website.
 📫 How to reach me:
     Discord: darkuu
     My discord server: https://discord.gg/yJtxqhK98J
-<---
+<--
 HidenInTheDark/HidenInTheDark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+-->
