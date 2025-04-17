@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HidenInTheDark
+- 👋 Hi, I’m Martin!
 - 👀 I’m interested in computer hardware, cryptocurrencies, blockchain, video games, anime, webpage developement and crypto mining.
 - 🌱 I’m currently learning Japanese and chip designing.
     Nice to meet ya
