@@ -18,3 +18,4 @@ Currently working on FPS game and video-sharing social media website.
 📫 How to reach me:
 - Discord: darkuu
 - My discord server: https://discord.gg/eHk7rwAbEv
+- X: @TheDarkuu
