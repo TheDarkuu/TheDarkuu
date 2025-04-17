@@ -16,5 +16,5 @@ Assembler A1 (custom assembler for my own microchips),
   
 Currently working on FPS game and video-sharing social media website.
 📫 How to reach me:
-    Discord: darkuu
-    My discord server: https://discord.gg/yJtxqhK98J
+- Discord: darkuu
+- My discord server: https://discord.gg/eHk7rwAbEv
