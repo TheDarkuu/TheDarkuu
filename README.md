@@ -22,5 +22,5 @@ Projects I currently work on are:
 
 📫 How to reach me:
 - Discord: darkuu
-- My discord server: https://discord.gg/eHk7rwAbEv
+- My discord server: https://discord.gg/NgdMcTTN2G
 - X: @TheDarkuu
